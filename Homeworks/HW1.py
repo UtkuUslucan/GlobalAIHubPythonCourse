@@ -2,7 +2,6 @@
 #İbrahim Utku USLUCAN
 #Homework 1
 
-
 evenNumbers = list(range(0,20,2))
 print(evenNumbers)
 
