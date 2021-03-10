@@ -2,17 +2,16 @@
 #İbrahim Utku USLUCAN
 #Homework 1
 
+
 evenNumbers = list(range(0,20,2))
-print(evenNumbers)
-
 oddNumbers = list(range(1,20,2))
-print(oddNumbers)
-
 commonList = evenNumbers + oddNumbers
-print(commonList)
+multipliedList = [i*2 for i in commonList]
 
-multiplyList = [i*2 for i in commonList]
-print(multiplyList)
+print("Even Numbers: " , evenNumbers)
+print("Odd Numbers: " , oddNumbers)
+print("Common List: " , commonList)
+print("Multiplied List: " , multipliedList)
 
-for x in multiplyList:
+for x in multipliedList:
     print(type(x))
