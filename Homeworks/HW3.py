@@ -1,3 +1,7 @@
+#GLOBAL AI HUB
+#İbrahim Utku USLUCAN
+#Homework 1
+
 stuOne = input("Öğrencinin adını giriniz: ")
 stuOneMidterm = int(input("Ara sınav notunu giriniz: "))
 stuOneProject = int(input("Proje puanını giriniz: "))
