@@ -1,6 +1,6 @@
 #GLOBAL AI HUB
 #İbrahim Utku USLUCAN
-#Homework 1
+#Homework 3
 
 stuOne = input("Öğrencinin adını giriniz: ")
 stuOneMidterm = int(input("Ara sınav notunu giriniz: "))
