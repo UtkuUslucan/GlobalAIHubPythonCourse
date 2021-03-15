@@ -6,16 +6,16 @@
 **Surname:** USLUCAN  
 **Email:** ibrahimutkuuslucan@gmail.com  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+
 
 ## Project Name
-Description of your project.
+Global AI Hub
+Introduction to Python Programming
+Homeworks & Final Project 
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+time module
 ```
 ---
 
