@@ -20,5 +20,5 @@ time module
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![](img/IbrahimUtkuUslucanCertificate.png)
 
